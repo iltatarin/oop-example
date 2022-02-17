@@ -1,0 +1,2 @@
+class VasyaSolution:
+    pass
